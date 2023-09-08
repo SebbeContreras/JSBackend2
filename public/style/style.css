@@ -1,0 +1,19 @@
+p {
+    color: red;
+}
+h2 {
+    padding-left:1rem;
+}
+ul{
+    margin:0;
+    padding: 0;
+}
+li {
+    padding: 1rem;
+    list-style: none;
+    border-top: 1px gray solid;
+    border-bottom: 1px gray solid;
+}
+li:nth-of-type(even) {
+background: gainsboro;
+}
